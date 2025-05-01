@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36025.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acta.Tool", "Acta.Tool\Acta.Tool.csproj", "{95045CE4-1CBB-4670-98FD-E0C4BB92C18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95045CE4-1CBB-4670-98FD-E0C4BB92C18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95045CE4-1CBB-4670-98FD-E0C4BB92C18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95045CE4-1CBB-4670-98FD-E0C4BB92C18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95045CE4-1CBB-4670-98FD-E0C4BB92C18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3547AA3F-1C06-4B80-B3A6-4ACE3F49A81A}
+	EndGlobalSection
+EndGlobal
